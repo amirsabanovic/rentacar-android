@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F8F8F8</color>
+    <color name="colorPrimaryDark">#F8F8F8</color>
+    <color name="colorAccent">#111111</color>
+    <color name="rentDate">#5CB85C</color>
+    <color name="expireDate">#F0AD4E</color>
+</resources>
